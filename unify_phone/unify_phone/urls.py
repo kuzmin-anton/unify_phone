@@ -16,7 +16,7 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from unify_phone_from_json import views
+from unify_phone_app import views
 
 urlpatterns = [
     path('admin1232/', admin.site.urls),
