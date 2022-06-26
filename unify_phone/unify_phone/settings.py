@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'unify_phone_from_json'
+    'unify_phone_app'
 ]
 
 MIDDLEWARE = [

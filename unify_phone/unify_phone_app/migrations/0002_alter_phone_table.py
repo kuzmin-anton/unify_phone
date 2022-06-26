@@ -6,7 +6,7 @@ from django.db import migrations
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('unify_phone_from_json', '0001_initial'),
+        ('unify_phone_app', '0001_initial'),
     ]
 
     operations = [
